@@ -1,0 +1,6 @@
+framework module LJKOP {
+  umbrella header "LJKOP-umbrella.h"
+
+  export *
+  module * { export * }
+}

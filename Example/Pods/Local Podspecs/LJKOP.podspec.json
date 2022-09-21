@@ -1,0 +1,22 @@
+{
+  "name": "LJKOP",
+  "version": "0.1.0",
+  "summary": "A short description of LJKOP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lewisfeng/LJKOP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lewisfeng": "lewisfeng@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lewisfeng/LJKOP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LJKOP/Classes/**/*"
+}
